@@ -1,5 +1,7 @@
 ## Hi there, I'm Jason 👋
 
+Check out my LinkedIn Profile![linkedin]
+
 ## I'm an Information Systems Engineering Student and a Blockchain App Enthusiast!!
 
 - 🌱 I’m currently learning about Blockchain App Development
