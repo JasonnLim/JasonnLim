@@ -1,16 +1,18 @@
 ## Hi, I am Jason!
 
-
-- 👨‍🎓 I'm currently an Information Systems Engineering Final Year Student
+<p align="center">
+  - 👨‍🎓 I'm currently an Information Systems Engineering Final Year Student
 - 🌱 I’m learning about Blockchain App Development
 - 👯 I’m looking to collaborate on open source Ethereum projects
 - 🥅 2021 Goals: Continue to learn and improve
 - ⚡ Fun fact: I love personal finance and crypto
   <br />
   <br />
-  
-[![JasonnLim's GitHub stats](https://github-readme-stats.vercel.app/api?username=JasonnLim&show_icons=true&theme=radical)](https://github.com/JasonnLim/github-readme-stats)
+    
+  [![JasonnLim's GitHub stats](https://github-readme-stats.vercel.app/api?username=JasonnLim&show_icons=true&theme=radical)](https://github.com/JasonnLim/github-readme-stats)
 
-<br />
+  <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonnLim&layout=compact&theme=radical)](https://github.com/JasonnLim/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonnLim&layout=compact&theme=radical)](https://github.com/JasonnLim/github-readme-stats)
+</p>
+
