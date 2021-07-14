@@ -1,4 +1,4 @@
-### <h1 align="center">Hi there! I am Jason <img src="Hi.gif" width="40px"/> </h1>  <div align = 'right'>![](https://komarev.com/ghpvc/?username=shobhitsrivastava-ds&color=yellow)</div>
+### <h1 align="center">Hi there! I am Jason <img src="Hi.gif" width="40px"/> </h1>  <div align = 'right'>![](https://komarev.com/ghpvc/?username=jasonnlim-ds&color=blueviolet)</div>
 
 - 👨‍🎓 I'm currently an Information Systems Engineering Final Year Student<br/>
 - 🌱 I’m learning about Blockchain App Development<br/>
