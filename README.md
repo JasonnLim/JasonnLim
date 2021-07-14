@@ -1,6 +1,6 @@
-### <h1 align="center">Hi there! I am Jason <img src="Hi.gif" width="40px"/> </h1>  <div align = 'right'>![](https://komarev.com/ghpvc/?username=jasonnlim-ds&color=blueviolet)</div>
+### <h1 align="center">Welcome to My Profile <img src="Hi.gif" width="40px"/> </h1>  <div align = 'right'>![](https://komarev.com/ghpvc/?username=jasonnlim-ds&color=blueviolet)</div>
 
-## I am a Student & Developer!!  
+## I am Jason
 </em></p> <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>
 
