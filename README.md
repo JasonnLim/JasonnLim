@@ -7,7 +7,7 @@
 - 👨‍🎓 I'm currently an Information Systems Engineering Final Year Student<br/>
 - 🌱 I’m learning about Blockchain App Development<br/>
 - 👯 I’m looking to collaborate on open source Ethereum projects<br/>
-- 🤔 I’m looking for help with Software or App Development. <br/>
+- 🤔 I’m looking for help with Machine Learning and Data Science. <br/>
 - 💬 Ask me about Blockchain or Blockchain App Development. <br/>
 - 🥅 2021 Goals: Continue to learn and improve<br/>
 - ⚡ Fun fact: I love personal finance and crypto<br/>
