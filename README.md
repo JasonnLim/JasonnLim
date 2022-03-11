@@ -15,7 +15,7 @@
 
 ---
   
-<p> <img src="https://github-readme-stats.vercel.app/api?username=JasonnLim&show_icons=true&theme=radical" alt="Jason" />
+<p> <img src="https://github-readme-stats.vercel.app/api?username=JasonnLim&show_icons=true" alt="Jason" />
   
 ---
   
